@@ -1,0 +1,10 @@
+# Eclipse build folders
+bin/
+out/
+*.class
+*.log
+*.exe
+sources.txt
+
+# Optional
+.DS_Store
