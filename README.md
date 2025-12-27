@@ -14,6 +14,10 @@ avec interface graphique Swing.
 - src/main/resources : ressources graphiques (icônes, thèmes)
 - theme.properties : fichier de configuration GUI
 
+## Télécharger le simulateur
+
+[JAR exécutable Moto6809](https://github.com/yacoubait/Moto6809-Simulator/releases/download/v1.0/Moto6809.jar)
+
 ## Exécution
 ```bash
 java -jar Moto6809.jar
